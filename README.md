@@ -1,7 +1,6 @@
 # SoftUni-course
 Courses from my education Java fundamental  in @SoftUni
 
-
 Problems for exercises with Arrays
 1.	Day of Week
 Enter a day number and print the day name  or "Invalid day!".
